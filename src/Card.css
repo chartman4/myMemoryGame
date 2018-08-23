@@ -1,0 +1,16 @@
+.card-container {
+  margin: 10px;
+  /* height: 150px; */
+  min-width: 100px;
+  /* width: 10%; */
+  background-color: grey;
+  border: 6px solid grey;
+  border-radius: 25px;
+  display: inline-block;
+
+  width: 200px;
+  height: 270px;
+  margin: 1em;
+  background-repeat: no-repeat;
+  /* background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwnwgBQdxzEBVgaL5UewL4qByq4oyMEhU88GZgepWnZYS4BR_Wcw"); */
+}
