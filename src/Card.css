@@ -1,8 +1,8 @@
 .card-container {
   margin: 10px;
-  /* height: 150px; */
-  min-width: 100px;
-  /* width: 10%; */
+  height: 150px;
+  min-width: 200px;
+  width: 10%;
   background-color: grey;
   border: 6px solid grey;
   border-radius: 25px;

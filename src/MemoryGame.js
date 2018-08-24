@@ -208,7 +208,8 @@ export default class MemoryGame extends Component {
     return (
       <div>
         <Navbar onNewGame={this.handleNewGame} />
-        {cards}
+        <div className="gameBoard">{cards}</div>
+
         <TryCounter tryCounter={this.state.tryCounter} />
       </div>
     );
